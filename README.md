@@ -126,7 +126,7 @@ Durante o desenvolvimento deste projeto foram praticados conceitos importantes p
 
 ---
 
-##  Desenvolvido por
+## Desenvolvido por
 
 <div align="center">
 
@@ -134,6 +134,8 @@ Durante o desenvolvimento deste projeto foram praticados conceitos importantes p
 
 Estudante de Ciência da Computação • QA Analyst Intern
 
-Projeto desenvolvido como parte dos estudos em **Automação de Testes com Playwright**.
+<a href="https://github.com/jojonobre">
+  <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
+</a>
 
 </div>
