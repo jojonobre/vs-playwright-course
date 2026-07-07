@@ -8,8 +8,6 @@
   Automação de Testes • E2E • Playwright • TypeScript • QA
 </p>
 
-<img src="https://skillicons.dev/icons?i=playwright,ts,nodejs,vscode" />
-
 </div>
 
 ---
